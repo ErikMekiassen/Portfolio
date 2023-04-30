@@ -23,12 +23,16 @@ const Tools: FC = () => {
           <h1 className="font-openSans font-bold text-3xl self-center">
             Web Development
           </h1>
-          <h2>I have used or am currently using the following for frontend webdev:</h2>
+          <h2>I have used or am currently using these server tools/technologies</h2>
           <ul className="list-disc text-white-300">
-            <li>HTML, CSS, JavaScript (TypeScript is much better)</li>
-            <li>ReactJS, NextJS, Remix, THREE</li>
-            <li>Vue</li>
-            <li>TailwindCSS</li>
+            <li>Linux/Ubuntu server</li>
+            <li>OpenSSH</li>
+            <li>Docker(with or without portainer)</li>
+            <li>NGINX</li>
+            <li>cloudflare</li>
+            <li>Lets encrypt</li>
+            <li>mdadm(software RAID)</li>
+            <li>ipfire(only on test VMs)</li>
           </ul>
         </div>
         <div className="bg-bg-surface bg-gradient-to-r from-cyan-500 to-blue-500 outline outline-0 outline-blue-500 rounded-lg py-8 px-16 flex flex-col h-85 space-y-6 items-start md:col-span-2 lg:col-span-1 transition-all hover:outline-4">
@@ -36,17 +40,17 @@ const Tools: FC = () => {
           <h1 className="font-openSans font-bold text-3xl self-center">
             Generally Used Languages
           </h1>
-          <h2>I have used or am currently using the following languages:</h2>
+          <h2>I have used or am currently using the following languages/tools for development:</h2>
           <ul className="list-disc text-white-300">
-            <li>C</li>
-            <li>C#</li>
-            <li>Python</li>
-            <li>C++</li>
-            <li>Shell</li>
-            <li>GML</li>
-            <li>GLSL</li>
+            <li>Kotlin</li>
+            <li>Javascript</li>
+            <li>Springboot</li>
+            <li>NodeJS</li>
+            <li>ReactJS</li>
+            <li>Postman</li>
             <li>Java</li>
-            <li>Rust 🦀</li>
+            <li>Python</li>
+            <li>Git CLI</li>
           </ul>
         </div>
       </div>

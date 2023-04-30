@@ -26,7 +26,7 @@ const Picture: FC = () => {
         animate={{ opacity: 1, transition: { duration: 0.7 } }}
         initial={{ opacity: 0 }}
       >
-        Hello, I&apos;m Splatboy Dev. 
+        Hello, I&apos;m Erik Mekiassen. 
       </motion.h1>
       <motion.p
         className="md:w-1/2 mx-auto text-center mt-6 text-sky-100"

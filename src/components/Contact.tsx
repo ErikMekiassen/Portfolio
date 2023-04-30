@@ -38,7 +38,7 @@ const Contact: FC = () => {
           <ul className="text-white-secondary font-openSans font-bold space-y-5 md:text-2xl text-lg">
             <li>
               <a
-                href="https://github.com/splatboydev"
+                href="https://github.com/ErikMekiassen"
                 className="flex space-x-5 items-center hover:text-slate-300"
               >
                 <FaGithub size={30} color="#3b82f6" />
@@ -47,11 +47,11 @@ const Contact: FC = () => {
             </li>
             <li>
               <a
-                href="mailto:contact@splatboy-dev.xyz"
+                href="mailto:emekiassen@gmail.com"
                 className="flex space-x-5 items-center hover:text-slate-300"
               >
                 <HiMail size={30} color="#3b82E1" />
-                <p>contact@splatboy-dev.xyz</p>
+                <p>emekiassen@gmail.com</p>
               </a>
             </li>
           </ul>
