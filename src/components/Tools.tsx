@@ -38,7 +38,7 @@ const Tools: FC = () => {
         <div className="bg-bg-surface bg-gradient-to-r from-cyan-500 to-blue-500 outline outline-0 outline-blue-500 rounded-lg py-8 px-16 flex flex-col h-85 space-y-6 items-start md:col-span-2 lg:col-span-1 transition-all hover:outline-4">
           <FaAnchor color="#C3C1BA" size={100} className="self-center" />
           <h1 className="font-openSans font-bold text-3xl self-center">
-            Generally Used Languages
+            Programming languages/dev tools
           </h1>
           <h2>I have used or am currently using the following languages/tools for development:</h2>
           <ul className="list-disc text-white-300">

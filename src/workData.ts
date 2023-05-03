@@ -1,20 +1,20 @@
 const projects = [
   {
-    title: "HomseServer",
+    title: "HomeServer",
     techTitle: "Server",
     description: "I built my own home server with powerefficency in mind. it has 8tb Raid 5 and 256gb m.2 made to handle a minecraft/gaming server with 8-10 people on and around 20 small web servers(Max 5 visitors as its only services for family and friends). Link with more information is on its way!",
     repoLink: "",
   },
   {
-    title: "API for ",
-    techTitle: "Firefox tool",
-    description: "Gluon is a Firefox build tool to easily develop your own Firefox forks. I frequently contribute to the development of gluon.",
-    repoLink: "https://github.com/pulse-browser/gluon"
+    title: "myWork Backend",
+    techTitle: "Springboot",
+    description: "I made a very simple API to POST, GET, DELETE and EDIT these work cards. Mostly because i was bored and thought it would be overkill/unecesary.",
+    repoLink: "https://github.com/ErikMekiassen/PortfolioMyworksComponentbackend"
   },
   {
-    title: "Portfolio",
-    techTitle: "Web (Next, TSX)",
-    description: "My portfolio website.",
+    title: "This portfolio",
+    techTitle: "React",
+    description: "I scripted this website and made some small changes to the original portfolio template by Splatboydev.",
     repoLink: "https://github.com/splatboydev/Portfolio"
   }
 ];

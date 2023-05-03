@@ -8,7 +8,7 @@ const nextConfig = {
     nextScriptWorkers: false,
   },
   images: {
-    unoptimized: false,
+    unoptimized: true,
   },
 }
 
