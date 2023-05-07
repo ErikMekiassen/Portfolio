@@ -106,7 +106,7 @@ const Nav: FC = () => {
               animationState === "hovered" ? "text-sky-400" : "text-white"
             }`}
           >
-            Splatboy Dev
+            Erik Mekiassen
           </p>
         </motion.div>
         {isTabletOrMobile && (

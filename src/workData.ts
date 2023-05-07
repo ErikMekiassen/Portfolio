@@ -6,10 +6,28 @@ const projects = [
     repoLink: "",
   },
   {
-    title: "myWork Backend",
+    title: "API backend for these workcards",
     techTitle: "Springboot",
-    description: "I made a very simple API to POST, GET, DELETE and EDIT these work cards. Mostly because i was bored and thought it would be overkill/unecesary.",
+    description: "I made a very simple API to POST, GET, DELETE and EDIT these work cards. Mostly because i was bored(highly unnecesary).",
     repoLink: "https://github.com/ErikMekiassen/PortfolioMyworksComponentbackend"
+  },
+  {
+    title: "FAQ site for an internal solution",
+    techTitle: "React",
+    description: "this website was for a simple school project about helpdesks and costumer support where we got tasked with making a FAQ page for an internal product",
+    repoLink: "https://github.com/ErikMekiassen/PortfolioMyworksComponentbackend"
+  },
+  {
+    title: "API backend for FAQ site",
+    techTitle: "Springboot",
+    description: "I made a very simple API to GET and POST a header and pharagraph. This is for the same school project as meantioned",
+    repoLink: "https://github.com/ErikMekiassen/PortfolioMyworksComponentbackend"
+  },
+  {
+    title: "chatGPT api app project",
+    techTitle: "Nodejs",
+    description: "I am the main contributor to an app that uses chatgpt to make your life simpler. More information will be comming as soon as its unveiled publicly",
+    repoLink: ""
   },
   {
     title: "This portfolio",
@@ -20,3 +38,5 @@ const projects = [
 ];
 
 export default projects;
+
+
